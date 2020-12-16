@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+*.zip
+__pycache__/
+training_and_validation_batches/
