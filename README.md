@@ -1,7 +1,6 @@
 # Spatial Transformer Network
-Spatial Transformer Network (STN) provides attention to a particular region to in an image, by doing transformation to the input image. The code in this repository does Affine transformation to image, but other transformation can be explored.
+Spatial Transformer Network (STN) provides attention to a particular region to in an image, by doing transformation to the input image. The code in this repository does Affine transformation to image, but other transformation can be explored. Detailed explanation of the concept is explained in the [blog post](https://towardsdatascience.com/implementing-spatial-transformer-network-stn-in-tensorflow-bf0dc5055cd5)
 
----
 
 ## Visualizations
 
@@ -11,7 +10,6 @@ Below are the visualizations when applied to the input image directly
 
 ![Visualizations](https://github.com/dedhiaparth98/spatial-transformer-network/blob/main/images/visualization.jpg)
 
----
 
 ## Custom Training and Model Design
 
